@@ -20,6 +20,7 @@ cuisines = [
     "Mexican",
     "Chinese",
     "Indian",
+    "Korean",
     "Japanese",
     "Thai",
     "French",
